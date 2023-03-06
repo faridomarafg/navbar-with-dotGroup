@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navbar-with-dotGroup/static/css/main.b918f6e6.css",
+    "main.js": "/navbar-with-dotGroup/static/js/main.d2d8e4b7.js",
+    "static/js/787.32185c12.chunk.js": "/navbar-with-dotGroup/static/js/787.32185c12.chunk.js",
+    "index.html": "/navbar-with-dotGroup/index.html",
+    "main.b918f6e6.css.map": "/navbar-with-dotGroup/static/css/main.b918f6e6.css.map",
+    "main.d2d8e4b7.js.map": "/navbar-with-dotGroup/static/js/main.d2d8e4b7.js.map",
+    "787.32185c12.chunk.js.map": "/navbar-with-dotGroup/static/js/787.32185c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b918f6e6.css",
+    "static/js/main.d2d8e4b7.js"
+  ]
+}
